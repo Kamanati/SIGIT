@@ -36,4 +36,4 @@ apt-get install wget && wget https://raw.githubusercontent.com/termuxhackers-id/
 
 - <i>picture by [@androidmalware](https://instagram.com/androidmalware)</i>
 ### Credits
-Copyright © 2021 by <a href="https://facebook.com/hasanfq6 ">@termuxhackers.id</a>
+Copyright © 2021 by <a href="https://facebook.com/hasanfq6 ">@hasanfq6</a>
