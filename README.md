@@ -16,7 +16,7 @@ SIGIT - Simple Information Gathering Toolkit
 - ```riplookup``` - reverse ip lookup
 - ```iplocation``` - ip to location tracker
 
-### Setup
+### Installation methods:
 - Installation on termux
 ```bash
 pkg install wget && wget https://raw.githubusercontent.com/termuxhackers-id/SIGIT/main/install.sh && bash install.sh
@@ -36,4 +36,4 @@ apt-get install wget && wget https://raw.githubusercontent.com/termuxhackers-id/
 
 - <i>picture by [@androidmalware](https://instagram.com/androidmalware)</i>
 ### Credits
-Copyright © 2021 by <a href="https://facebook.com/termuxhackers.id">@termuxhackers.id</a>
+Copyright © 2021 by <a href="https://facebook.com/hasanfq6 ">@termuxhackers.id</a>
