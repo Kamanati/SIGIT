@@ -55,7 +55,7 @@ logo = f"""{b}
        -"v]qj;-                             -;jq]v"-
                        {w}[ S.I.G.I.T ]{b}
            {d}Simple Information Gathering Toolkit{w}
-               {d}Author by {w}{r}@Termuxhackers.id{w}"""
+               {d}modified by {w}{r}@hasanfq{w}"""
 
 def menu():
     os.system("clear")
